@@ -34,6 +34,6 @@ This kit provides **ready-to-use communication templates and clarity tools** so 
 
 ---
 
-## ✅ How to Use  
+## How to Use  
 1. Browse `/templates` and adapt them to your organization.  
 2. Use `/examples` to train your
