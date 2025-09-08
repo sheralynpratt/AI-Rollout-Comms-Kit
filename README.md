@@ -40,6 +40,8 @@ A simple, zero-dependency Python tool that evaluates how clear your AI rollout c
    ```bash
    cd path/to/AI-Rollout-Comms-Kit/tools
 
+---
+
 ## Who This Is For  
 - **Leaders** announcing AI adoption.  
 - **L&D teams** designing AI training.  
