@@ -22,9 +22,23 @@ This kit provides **ready-to-use communication templates and clarity tools** so 
 - **Before_After_Rewrites.md** → side-by-side rewrites: *“Before (confusing)” → “After (clear).”*  
 - Shows how small shifts in language build trust.  
 
-### `/tools`  
-- **Clarity_Checker.py** → paste a paragraph of text, get a readability score + rewrite suggestions.  
-- Demonstrates how AI can **improve communication, not just automate tasks.**  
+### `/tools`
+
+**Clarity_Checker_basic.py**  
+A simple, zero-dependency Python tool that evaluates how clear your AI rollout communication is.  
+
+**Features:**  
+- Scores clarity on a 0–100 scale  
+- Labels output as *Very clear*, *Fairly clear*, or *Needs work*  
+- Flags common corporate jargon (e.g., leverage, optimize, synergy)  
+- Gives actionable suggestions to improve clarity  
+- Works with no external installs — just Python  
+
+**How to Run It:**  
+
+1. Open a terminal and navigate to the `/tools` folder in this repo.  
+   ```bash
+   cd path/to/AI-Rollout-Comms-Kit/tools
 
 ## Who This Is For  
 - **Leaders** announcing AI adoption.  
