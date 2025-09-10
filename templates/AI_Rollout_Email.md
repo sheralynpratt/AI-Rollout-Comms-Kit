@@ -1,18 +1,19 @@
-Subject: Introducing AI to Support Your Work  
+**Subject:** We’re starting with [Tool Name] on [Month Day] — here’s what to expect  
 
 Hello Team,  
 
-We are excited to share that we are introducing new AI tools to help you save time and focus on higher-value work.  
+We’re excited to share that we’re introducing **[Tool Name]** to help you save time and focus on the work that matters most.  
 
-Here’s what this means:  
-- **AI is here to support, not replace.** Your expertise and decision-making remain at the core.  
-- **We’re starting small.** You’ll see AI assist with [specific task].  
+Here’s what this means for you:  
+- **AI is here to support, not replace.** Your expertise and decision-making stay at the center.  
+- **We’re starting small.** First, you’ll see AI assist with **[specific task]**.  
 - **You stay in control.** The AI suggests; you decide.  
 
-Next steps:  
-- Training sessions begin [date].  
-- FAQs are available [link].  
-- Feedback is welcome—your experience will shape how we move forward.  
+**What’s next:**  
+- We’ll begin learning **[Tool Name]** together on **[Day, Month Date]**. Your team lead will share details on **[Weekday]**.  
+- We’ve answered common questions here: [FAQ link].  
+- Tell us what doesn’t make sense or what could be better here: [Feedback link]. Anything you share now will make it easier for your coworkers later.  
 
-Thank you for your commitment to innovation,  
-[Leader Name]  
+Thanks for helping us keep this simple, clear, and useful.  
+
+— [Leader Name]  
